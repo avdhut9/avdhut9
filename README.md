@@ -10,6 +10,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/avadhut-shinde-0ab276181/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avadhut shinde" height="30" width="40" /></a>
+  <a href="https://avdhut9.github.io/" target="blank"><img align="center" src="https://p.kindpng.com/picc/s/394-3941580_portfolio-circle-hd-png-download.png" alt="avadhut shinde" height="50" width="100" /></a>
+  <a href="https://github.com/avdhut9" target="blank"><img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="avadhut shinde" height="30" width="40" /></a>
+</p>
+
+</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
