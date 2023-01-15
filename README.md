@@ -28,7 +28,7 @@ Aspiring 🧑🏻‍💻 MERN STACK developer with specialisation in JavaScript,
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/avadhut-shinde-0ab276181" target="_blank">
-	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nayan-kumar-/" height="30" width="40" /></a>
+	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 	<a href="https://avdhut9.github.io/" target="_blank">
 	<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMNBKntnvlY6IKnSvka4n2aH4Ftp7XyHMxWcmGCChP&s" alt="" height="40" width="90" /></a>
 	<a href="https://github.com/avdhut9" target="_blank">
