@@ -30,7 +30,7 @@ Aspiring 🧑🏻‍💻 MERN STACK developer with specialisation in JavaScript,
 <a href="https://www.linkedin.com/in/avadhut-shinde-0ab276181/" target="_blank">
 <img align="center" src="https://1000logos.net/wp-content/uploads/2017/03/Linkedin-Logo.png" alt="" height="40" width="80" />
 </a>
-	
+<a href="https://www.linkedin.com/in/avadhut-shinde-0ab276181/" target="_blank"><img src="https://1000logos.net/wp-content/uploads/2017/03/Linkedin-Logo.png"/></a>
 <a href="https://avdhut9.github.io/" target="_blank">
 <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMNBKntnvlY6IKnSvka4n2aH4Ftp7XyHMxWcmGCChP&s" alt="" height="40" width="90" />
 </a>
